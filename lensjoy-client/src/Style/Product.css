@@ -1,0 +1,18 @@
+.product-tabs .h4 {
+    padding-bottom: 5px;
+    font-weight: 600;
+    font-size: larger;
+    color: black;
+}
+
+.product-navbar {
+    background-color: white;
+    color: black;
+    box-shadow: 0 5px 18px rgba(34, 34, 34, 0.2);
+}
+
+
+.product-tabs .h4:hover{
+    border-bottom: 3px solid rgb(138, 135, 135);
+    color: black;
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad:wght@500&family=Lato&family=Open+Sans:wght@400;500&family=Roboto&family=Roboto+Condensed&family=Ubuntu:wght@300;400;500&display=swap');
+.contact-text {
+    border-bottom: 4px solid rgb(66, 65, 65);
+    text-align: center; 
+    display: inline-block;
+    padding-bottom: 5px;
+    font-weight: 600;
+    width: auto;
+    border-radius: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fab-icon a{
+    color: white;
+    font-size: 18px;
+    background-color:  #454545;
+    border-radius: 13px;
+    padding: 1px 7px;
+}
+
+.fab-icon a:hover{
+    cursor: pointer;
+    color:  #454545;
+    background-color: white;
+    font-size: 18px; 
+    border-radius: 13px;
+    padding: 1px 7px;
+}
